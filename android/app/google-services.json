@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12107860526",
+    "project_id": "chat-25c4c",
+    "storage_bucket": "chat-25c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12107860526:android:d11ae31e45b0069e8c2dbf",
+        "android_client_info": {
+          "package_name": "com.cecruzbrito.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12107860526-vtfmu55pfmaorkpm355fqsu1mu2gs6pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cecruzbrito.chat",
+            "certificate_hash": "951cc55ca95641695a07fa240a819a2da77d5c8e"
+          }
+        },
+        {
+          "client_id": "12107860526-q8ipbjl7vnreauo0698pn2vmhh4mkofc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisG2RAPShEIHK221DizMXfYZ5pUaIcUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12107860526-q8ipbjl7vnreauo0698pn2vmhh4mkofc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
